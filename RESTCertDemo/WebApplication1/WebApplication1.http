@@ -1,0 +1,12 @@
+@WebApplication1_HostAddress = http://selfsigned.acc-licensing.eu:80
+@WebApplication1_HostAddressSSL = https://selfsigned.acc-licensing.eu:443
+
+GET {{WebApplication1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{WebApplication1_HostAddressSSL}}/weatherforecast/
+Accept: application/json
+
+###

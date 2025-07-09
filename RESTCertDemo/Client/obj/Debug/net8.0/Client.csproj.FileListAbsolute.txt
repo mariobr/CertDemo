@@ -1,0 +1,28 @@
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.exe
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.dll
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.dll
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\mbriana\OneDrive - THALES SA\Documents\_PSC\_Customers\Carl-Zeiss\dev\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\ref\Client.dll
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.exe
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.deps.json
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.dll
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\bin\Debug\net8.0\Client.pdb
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.dll
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\refint\Client.dll
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.pdb
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\Client\obj\Debug\net8.0\ref\Client.dll

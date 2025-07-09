@@ -1,0 +1,11 @@
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\WebApplication1.exe
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\appsettings.Development.json
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\appsettings.json
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\WebApplication1.dll
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\WebApplication1.deps.json
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\WebApplication1.runtimeconfig.json
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\WebApplication1.pdb
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\Microsoft.OpenApi.dll
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Store\OneDrive\Desktop\CertDemo\RESTCertDemo\WebApplication1\bin\Debug\net9.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
