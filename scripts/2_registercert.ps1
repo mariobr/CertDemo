@@ -12,18 +12,18 @@ Write-Host "Installing certificate to Trusted Root Certification Authorities..."
 
 # Import certificate to Trusted Root store (requires admin privileges)
 try {
-    $passwd = ConvertTo-SecureString -String "certtest" -Force -AsPlainText 
+    # $passwd = ConvertTo-SecureString -String "certtest" -Force -AsPlainText 
     # $rootCert = $(Import-PfxCertificate -FilePath $certKeyPath -CertStoreLocation 'Cert:\LocalMachine\Root' -Password $passwd)
     $rootCert = $(Import-Certificate -FilePath $certKeyPath -CertStoreLocation 'Cert:\LocalMachine\Root')
 
     # Verify installation
-    $thecert = Get-ChildItem -Path Cert:\LocalMachine\Root | Where-Object { $_.Subject -like "*$certName*" }
-    if ($thecert) {
+    $rootCert = Get-ChildItem -Path Cert:\LocalMachine\Root | Where-Object { $_.Subject -like "*$certName*" }
+    if ($rootCert) {
         Write-Host "✓ Certificate verified in Trusted Root store" -ForegroundColor Green
-        Write-Host "Subject: $($thecert.Subject)" -ForegroundColor Yellow
-        Write-Host "Thumbprint: $($thecert.Thumbprint)" -ForegroundColor Yellow
-        Write-Host "Valid From: $($thecert.NotBefore)" -ForegroundColor Yellow
-        Write-Host "Valid To: $($thecert.NotAfter)" -ForegroundColor Yellow
+        Write-Host "Subject: $($rootCert.Subject)" -ForegroundColor Yellow
+        Write-Host "Thumbprint: $($rootCert.Thumbprint)" -ForegroundColor Yellow
+        Write-Host "Valid From: $($rootCert.NotBefore)" -ForegroundColor Yellow
+        Write-Host "Valid To: $($rootCert.NotAfter)" -ForegroundColor Yellow
     }
     
 } catch {
