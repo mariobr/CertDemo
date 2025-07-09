@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\Client\\Client.csproj": {}
+    "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\Client\\Client.csproj": {}
   },
   "projects": {
-    "d:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\Client\\Client.csproj": {
+    "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\Client\\Client.csproj",
+        "projectUniqueName": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "d:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\Client\\Client.csproj",
+        "projectPath": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "d:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\Client\\obj\\",
+        "outputPath": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

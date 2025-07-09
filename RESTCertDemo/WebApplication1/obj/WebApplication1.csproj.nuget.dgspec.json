@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj": {}
+    "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj": {
+    "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "D:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\WebApplication1\\obj\\",
+        "outputPath": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

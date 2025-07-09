@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YOsOOJD0axU=",
+  "dgSpecHash": "e5tWYJGJBGA=",
   "success": true,
-  "projectFilePath": "D:\\Store\\OneDrive\\Desktop\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
