@@ -447,23 +447,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mario\\.nuget\\packages\\": {},
+    "C:\\Users\\mbriana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "c:\\Users\\mbriana\\OneDrive - THALES SA\\Documents\\_PSC\\_Customers\\Carl-Zeiss\\dev\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-      "outputPath": "d:\\DEV-Thales\\Repos\\CertDemo\\RESTCertDemo\\WebApplication1\\obj\\",
+      "projectPath": "c:\\Users\\mbriana\\OneDrive - THALES SA\\Documents\\_PSC\\_Customers\\Carl-Zeiss\\dev\\CertDemo\\RESTCertDemo\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\mbriana\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\mbriana\\OneDrive - THALES SA\\Documents\\_PSC\\_Customers\\Carl-Zeiss\\dev\\CertDemo\\RESTCertDemo\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mbriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -491,7 +491,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -521,7 +521,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

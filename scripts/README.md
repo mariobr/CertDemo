@@ -56,12 +56,14 @@ dotnet user-secrets set "KestrelCertificatePassword" "certtest" --project "WebAp
 ### Method 3: Browser-Specific Trust
 
 **Chrome/Edge:**
+
 1. Navigate to the HTTPS site
 2. Click "Advanced" on the security warning
 3. Click "Proceed to [domain] (unsafe)"
 4. Or import the .cer file via browser settings
 
 **Firefox:**
+
 1. Navigate to the HTTPS site
 2. Click "Advanced" → "Accept the Risk and Continue"
 3. Or import via Settings → Privacy & Security → Certificates
@@ -77,6 +79,7 @@ dotnet user-secrets set "KestrelCertificatePassword" "certtest" --project "WebAp
 ### Verification
 
 Check if certificate is trusted:
+
 ```powershell
 # List certificates in trusted root store
 Get-ChildItem -Path Cert:\LocalMachine\Root | Where-Object { $_.Subject -like "*selfsigned.acc-licensing.eu*" }
@@ -87,14 +90,14 @@ Invoke-WebRequest -Uri "https://selfsigned.acc-licensing.eu:5001" -UseBasicParsi
 
 ### Important Notes
 
-- **Security Warning**: Self-signed certificates bypass normal certificate validation. Only use for development/testing.
-- **Administrator Rights**: Required for system-wide certificate installation
-- **Browser Restart**: May be needed after certificate installation
-- **Production**: Always use certificates from trusted Certificate Authorities in production
++ **Security Warning**: Self-signed certificates bypass normal certificate validation. Only use for development/testing.
++ **Administrator Rights**: Required for system-wide certificate installation
++ **Browser Restart**: May be needed after certificate installation
++ **Production**: Always use certificates from trusted Certificate Authorities in production
 
 ### Troubleshooting
 
-- If browsers still show warnings, clear browser cache and restart
-- Verify the certificate subject name matches the URL you're accessing
-- Check that the certificate hasn't expired
-- Ensure hosts file entry matches the certificate subject name
+ If browsers still show warnings, clear browser cache and restart
+ Verify the certificate subject name matches the URL you're accessing
+ Check that the certificate hasn't expired
+ Ensure hosts file entry matches the certificate subject name
